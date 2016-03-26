@@ -7,6 +7,7 @@ related code.
 
 ## Table of contents
 
+* [Basic Python](#basic-python)
 * [Codewars](#codewars)
 * [DNS](#dns)
 * [MLCD](#mlcd)
